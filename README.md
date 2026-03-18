@@ -4,6 +4,12 @@ Hello, and welcome to the SPI Communication Visualizer project!
 
 This project helps you see the invisible data flying around in an SPI bus. We have 4 LEDs, each representing a key line used in SPI communication. The master device (Arduino Nano) sends numbers to the slave device (Arduino Uno) via SPI, and the slave then prints them to the serial monitor.
 
+## Interactive Simulation
+
+You can test the circuit and explore the code directly in your browser before building it. Check out the Tinkercad project here:
+
+[Try the Tinkercad Simulation](https://www.tinkercad.com/things/34kD23fN9Y2-spi-communication-visualiser)
+
 ## Demo Video
 
 Want to see it in action? Watch the LEDs flash to represent the live data transfer between the two Arduinos in the video below:
